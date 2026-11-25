@@ -8,3 +8,6 @@ This repository contains materials for the Uppsala University courses:
 
 - **Population Genomic Analysis (1MB517)**
     * [Autumn semester HT2026](1MB517_HT2026.md)
+
+- **Introduction to Bioinformatics (1MB438)**
+    * <https://github.com/UU-Human-Evolution/1MB438/tree/main>
